@@ -28,3 +28,19 @@ This project demonstrates an end-to-end GenAI pipeline: document ingestion → s
 ### Upload PDF
 ![Upload](screenshots/upload.png)
 
+## ⭐ Why this project matters
+
+This project demonstrates a complete **offline GenAI pipeline**:
+
+- RAG from PDFs
+- Vector search (FAISS)
+- Local embeddings
+- Local LLM inference
+- Multi-document support
+- Chat history
+- Source highlighting
+
+No OpenAI keys. No cloud. 100% local.
+
+Built for real-world enterprise document QA.
+
